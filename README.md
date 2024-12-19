@@ -12,7 +12,7 @@ I'm a software engineer, I'm here to make your digital wishes come true. With ex
 
 👁️AI: AI-driven Framework to create AI Agent.
 
-☁️DevOps: Docker, Git, GitLab
+☁️DevOps: Docker, Git, GitLab , Nginx
 
 📊Database: Manage and optimize databases for high performance and reliability.
 
