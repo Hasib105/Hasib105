@@ -10,7 +10,7 @@ I'm a software engineer, I'm here to make your digital wishes come true. With ex
 
 🚀Low-Code: Accelerate app creation and innovation with Low-Code tools.
 
-👁️AI: AI-driven Framework to create AI Agent.
+👁️AI: AI-driven Framework Langchain, LangGraph, CrewAi.
 
 ☁️DevOps: Docker, Git, GitLab , Nginx
 
