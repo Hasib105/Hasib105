@@ -1,7 +1,9 @@
 # Hi there 👋, I'm **Hasib Ahmed**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Software+Engineer+%26+AI+%26+Agentic+Systems+Developer;" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%26+AI+ML;AI+%26+Agentic+Systems+Developer;" alt="Typing SVG" />
+
 </div>
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasibahmed1729@gmail.com)
