@@ -77,18 +77,6 @@ I design high-performance APIs and microservices with **FastAPI** and **Django**
 
 ---
 
-### 🚀 **Featured Python & AI Projects**
-
-| Project | Description | Core Stack |
-| :--- | :--- | :--- |
-| 🤖 [**enterprise-agent-lab**](https://github.com/Hasib105/enterprise-agent-lab) | Autonomous multi-agent experimentation platform testing tool usage, multi-step reasoning, and stateful orchestration. | `Python` `LangGraph` `CrewAI` `OpenAI` |
-| 🎬 [**ai-reel-generator**](https://github.com/Hasib105/ai-reel-generator) | Automated video & content generation pipeline using Python automation, script synthesis, and audio/video rendering. | `Python` `Asyncio` `LLMs` `Media Pipeline` |
-| ✉️ [**email-gen-assistant**](https://github.com/Hasib105/email-gen-assistant) | Context-driven LLM assistant for intelligent email drafting, intent recognition, and communication workflows. | `Python` `FastAPI` `LangChain` |
-| 📚 [**lessonforge**](https://github.com/Hasib105/lessonforge) | AI-powered curriculum generation engine structuring complex subjects into systematic, progressive learning paths. | `Python` `LLMs` `Pydantic` |
-| 📖 [**fastapi-bangla-docs**](https://github.com/Hasib105/fastapi-bangla-docs) | Comprehensive community documentation, architectural best practices, and patterns for production FastAPI applications. | `Python` `FastAPI` `Async Architecture` |
-
----
-
 ### 📈 **GitHub Activity & Streak**
 
 <div align="center">
